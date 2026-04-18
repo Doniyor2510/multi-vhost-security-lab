@@ -78,19 +78,28 @@ Junior Penetration Tester
 ## Screenshots
 
 ### Subdomain Infrastructure
-![Subdomains](images/subdomains-map.png.png)
+![Subdomains](Images/subdomains-map.png.png)
 
 ### Admin Login Panel
-![Admin Login](images/admin.orbitalgrid.lab.png)
+![Admin Login](Images/admin.orbitalgrid.lab.png)
 
 ### Internal Dashboard
-![Dashboard](images/admin.orbitalgrid.lab2.png)
+![Dashboard](Images/admin.orbitalgrid.dashboard.png)
 
 ### Development Portal
-![Dev](images/dev.orbitalgrid.lab.png)
+![Dev](Images/dev.orbitalgrid.lab.png)
 
 ### Shop Environment
-![Shop](images/shop.orbitalgrid.lab.png)
+![Shop](Images/shop.orbitalgrid.lab.png)
 
 ### Beta Environment
-![Beta](images/beta.orbitalgrid.lab.png)
+![Beta](Images/beta.orbitalgrid.lab.png)
+
+### Portal
+![Portal](Images/portal.orbitalgrid.lab.png)
+
+### CDN
+![CDN](Images/cdn.orbitalgrid.lab.png)
+
+### Test Environment
+![Test](Images/test.orbitalgrid.lab.png)
