@@ -74,32 +74,30 @@ Doniyor Sotiboldiyev
 Junior Penetration Tester
 
 ---
-
 ## Screenshots
 
-### Subdomain Infrastructure
-![Subdomains](Images/subdomains-map.png.png)
+### Beta Environment
+![Beta](Images/beta.orbitalgrid.lab.png)
+
+### CDN
+![CDN](Images/cdn.orbitalgrid.lab.png)
+
+### Portal
+![Portal](Images/portal.orbitalgrid.lab.png)
+
+### Test Environment
+![Test](Images/test.orbitalgrid.lab.png)
+
+### Shop Environment
+![Shop](Images/shop.orbitalgrid.lab.png)
+
+### Development Portal
+![Dev](Images/dev.orbitalgrid.lab.png)
 
 ### Admin Login Panel
 ![Admin Login](Images/admin.orbitalgrid.lab.png)
 
 ### Internal Dashboard
 ![Dashboard](Images/admin.orbitalgrid.dashboard.png)
-
-### Development Portal
-![Dev](Images/dev.orbitalgrid.lab.png)
-
-### Shop Environment
-![Shop](Images/shop.orbitalgrid.lab.png)
-
-### Beta Environment
-![Beta](Images/beta.orbitalgrid.lab.png)
-
-### Portal
-![Portal](Images/portal.orbitalgrid.lab.png)
-
-### CDN
-![CDN](Images/cdn.orbitalgrid.lab.png)
-
 ### Test Environment
 ![Test](Images/test.orbitalgrid.lab.png)
